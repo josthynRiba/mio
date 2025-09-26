@@ -1,0 +1,6 @@
+Category id,Parent id,Category name,Description,Is active,Thumbnail image url,Category page url
+2,,Bebe,Bebe,1,,
+2,2,Leche,Leche,1,,
+2,,Congelados,Congelados,1,,
+200,2,Helados,Helados,1,,
+2000,200,Galletas,Galletas,1,,
